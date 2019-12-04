@@ -4,7 +4,7 @@ title: '放逐之刃l'
 date: 2019-12-03
 author: jieor
 color: rgb(255,210,32)
-cover: '../assets/timg.jpeg'
+cover: '../assets/timg2.jpeg'
 tags: jekyll
 ---
 
