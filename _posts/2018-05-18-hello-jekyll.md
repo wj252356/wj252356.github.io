@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 'Hello Jekyll'
-date: 2017-04-18
-author: Jekyll
+title: '放逐之刃l'
+date: 2019-12-03
+author: jieor
 color: rgb(255,210,32)
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+cover: '../assets/timg.jpeg'
 tags: jekyll
 ---
 
-> Transform your plain text into static websites and blogs.
+>  断剑重铸之日，骑士归来之时！
 
 # Welcome
 
