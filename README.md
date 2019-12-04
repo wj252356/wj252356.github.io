@@ -6,9 +6,9 @@
 
 [在线预览 view demo →](http://xseven.me/)
 
-![1](/screenshot/1.png)
+![1](/home/wj123/wjboke/screenshot/1.png)
 
-![2](/screenshot/2.png)
+![2](/home/wj123/wjboke/screenshot/2.png)
 
 ![3](/screenshot/3.png)
 
@@ -145,7 +145,13 @@ author: true
 name: 'your awesome name'
 NickName: 'your awesome nickname'
 webtitle: 'your awesome webtitle'
-bio: 'your awesome bio'
+bio: 'your awesome bio'￼
+# 百度统计 在baidu-url里填写自己相关的url代码
+baidu: true
+baidu-url: ''
+# 谷歌分析 在google-ID里填写自己在谷歌分析获得的追踪ID
+google: false
+google-ID: ''
 about: true
 aboutyou: 'your introduction'
 portraits: '/assets/profile.jpeg' # your portraits image file path
@@ -153,7 +159,7 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 
 ​	该部分显示在 `关于博主` 页面，与 `社交媒体` 一同在下图显示。
 
-![6](/screenshot/6.png)
+**![6](/screenshot/6.png)**
 
 关于author：
 
