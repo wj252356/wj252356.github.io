@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '放逐之刃l'
+title: '放逐之刃'
 date: 2019-12-03
 author: jieor
 color: rgb(255,210,32)
@@ -8,7 +8,9 @@ cover: '../assets/timg2.jpeg'
 tags: jekyll
 ---
 
->  断剑重铸之日，骑士归来之时！
+>  断剑重铸之日，骑士归来之时！                                                                                                            
+>
+> 
 
 # Welcome
 
