@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '面对疾风吧！'
-description: 'your web description'
-keywords: 'your web keywords, another keywords'
+title: 'your awesome webtitle'
+description: '输赢不重要，快乐就完事了'
+keywords: 'yasuo'
 url: 'https://abc.github.io' # your host
 
 # nav 中文字符空格：&emsp;
@@ -13,10 +13,10 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
   友情链接: '/friendLink.html'
 
 # 博主
-author: true
+author: jieor
 name: 'your awesome name'
 NickName: 'your awesome nickname'
-webtitle: 'your awesome webtitle'
+webtitle: '面对疾风吧'
 bio: 'your awesome bio'
 about: true
 aboutyou: 'your introduction'
@@ -70,7 +70,7 @@ livere: true
 livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
 # Gitment评论 OAuth Application
 Gitment: false
-Gitment_owner: ''  # github用户名
+Gitment_owner: 'wj252356'  # github用户名
 Gitment_repo: ''  # github博客存放的仓库名
 client_id: ''  # 注册 OAuth Application 后获得的 client_id
 client_secret: ''  # 注册 OAuth Application 后获得的 client_secret
